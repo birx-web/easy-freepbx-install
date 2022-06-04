@@ -44,7 +44,7 @@ cd /usr/src
 wget http://mirror.freepbx.org/modules/packages/freepbx/freepbx-15.0-latest.tgz
 tar vxfz freepbx-*.tgz
 rm -f freepbx-*.tgz
-cd /usr/scr/freepbx*
+cd /usr/src/freepbx*
 sudo ./start_asterisk start
 
 sudo mkdir /var/www/freepbx
