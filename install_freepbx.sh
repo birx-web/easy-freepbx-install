@@ -19,7 +19,7 @@ adduser asterisk -M -c "Asterisk User"
 cd /usr/src
 wget http://downloads.asterisk.org/pub/telephony/dahdi-linux-complete/dahdi-linux-complete-current.tar.gz
 wget http://downloads.asterisk.org/pub/telephony/libpri/libpri-current.tar.gz
-wget http://downloads.asterisk.org/pub/telephony/asterisk/asterisk-13-current.tar.gz
+wget http://downloads.asterisk.org/pub/telephony/asterisk/asterisk-19-current.tar.gz
 wget -O jansson.tar.gz https://github.com/akheron/jansson/archive/v2.14.tar.gz
 wget -O pjsip.tar.gz https://github.com/pjsip/pjproject/archive/refs/tags/2.12.1.tar.gz
 
